@@ -122,9 +122,7 @@ body {
   }
 }
 
-.social{
-  font-size: 20px;
-}
+
 @media (max-width: 580px) {
   .page-description {
     font-size: 14px;
@@ -158,6 +156,10 @@ p {
   margin-bottom: 21px;
 }
 
+.social{
+  font-size: 25px;
+  font-weight: bold;
+}
 
 .footer-social-links .social-link {
   display: inline-block;
