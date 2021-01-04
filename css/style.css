@@ -2037,11 +2037,6 @@ span.color {
   }
 }
 
-.vl {
-  border-left: 6px solid #e93f3f;
-  height: 500px;
-}
-
 #page-container {
   position: relative;
   min-height: 70vh;
