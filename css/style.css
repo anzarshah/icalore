@@ -8,6 +8,14 @@ Note: Licence under Creative Commons Attribution 3.0
 @import url("font-awesome.css");
 @import url("animate.css");
 
+#background_contact1 {
+  background-image: url("../img/home.jpg");
+}
+
+#background_contact2 {
+  background-image: url("../img/web.jpg");
+}
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 300;
