@@ -1129,6 +1129,7 @@ ul.link-list li {
 }
 footer {
   background: #272727;
+  height: 30px;
 }
 footer ul.link-list li a {
   color: #8c8c8c;
